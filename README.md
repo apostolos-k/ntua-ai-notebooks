@@ -25,8 +25,8 @@ Additionally, we created a simulation of a chase inside the maze between a playe
 
 In this lab, we developed a movie recommender system using Prolog, integrated within a Jupyter notebook via the `pyswip` library. The system offers two types of recommendations:
 
-1. **Content-Based Recommendations:** Suggests movies based on characteristics such as genre, year, actors, etc.
-2. **Collaborative Filtering:** Recommends movies based on user ratings of other movies, providing a similarity score to indicate how likely a movie is to be enjoyed by the user.
+- **Content-Based Recommendations:** Suggests movies based on characteristics such as genre, year, actors, etc.
+- **Collaborative Filtering:** Recommends movies based on user ratings of other movies, providing a similarity score to indicate how likely a movie is to be enjoyed by the user.
 
 The recommendation system includes a scale to measure the likelihood of a user liking a particular movie, offering a more personalized suggestion.
 
